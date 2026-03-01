@@ -14,6 +14,7 @@ I build end‑to‑end solutions that connect **data science with real‑world i
 | Project | Description | Tech |
 |---------|-------------|------|
 | **Wildfire Prediction System** | AI‑driven prototype for wildfire risk forecasting with EO data and interactive visualizations | Python · ML · EO · Fullstack |
+| [**Career Coach Recommender**](https://github.com/pkouridakis/career-coach-recommender) |  RecommenderCertificate recommendation engine combining content-based filtering, co-occurrence analysis, and semantic similarity via sentence embeddings | Python · ML · FastAPI · NLP |
 | [**NDVI Time Series Explorer**](https://github.com/pkouridakis/ndvi-time-series-explorer) | Visualization and analysis tool for satellite vegetation indices | Python · EO · Data Viz |
 | [**AI Chatbot (LangChain)**](https://github.com/pkouridakis/chatbot_langchain) | Conversational AI assistant built with LangChain and modern NLP components | Python · NLP · LLMs |
 
